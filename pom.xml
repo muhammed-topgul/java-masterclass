@@ -28,5 +28,6 @@
 
     <modules>
         <module>01-introduction-to-java</module>
+        <module>02-types-and-variables</module>
     </modules>
 </project>
