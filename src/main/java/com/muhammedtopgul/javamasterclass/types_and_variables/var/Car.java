@@ -1,4 +1,4 @@
-package com.muhammedtopgul.javamasterclass.types_and_variables;
+package com.muhammedtopgul.javamasterclass.types_and_variables.var;
 
 /**
  * @author muhammed-topgul created at 27/10/2021 20:55

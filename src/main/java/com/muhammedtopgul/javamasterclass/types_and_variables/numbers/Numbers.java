@@ -1,13 +1,13 @@
-package com.muhammedtopgul.javamasterclass.numbers;
+package com.muhammedtopgul.javamasterclass.types_and_variables.numbers;
 
 import java.math.BigDecimal;
 import java.math.MathContext;
 
 /**
- * @author muhammed-topgul created at 21/10/2021 16:02
+ * @author muhammed-topgul created at 27/10/2021 21:16
  */
 
-public class Main {
+public class Numbers {
 
     public static void main(String[] args) {
         double doubleSum = 0.0d;
