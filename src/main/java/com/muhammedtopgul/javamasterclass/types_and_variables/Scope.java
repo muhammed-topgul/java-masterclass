@@ -1,4 +1,4 @@
-package com.muhammedtopgul.javamasterclass.types_and_variables.scope;
+package com.muhammedtopgul.javamasterclass.types_and_variables;
 
 /**
  * @author muhammed-topgul created at 27/10/2021 21:22

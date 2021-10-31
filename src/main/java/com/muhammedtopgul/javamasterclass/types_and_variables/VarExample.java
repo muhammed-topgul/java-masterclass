@@ -1,4 +1,4 @@
-package com.muhammedtopgul.javamasterclass.types_and_variables.var;
+package com.muhammedtopgul.javamasterclass.types_and_variables;
 
 import java.util.ArrayList;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package com.muhammedtopgul.javamasterclass.types_and_variables.numbers;
+package com.muhammedtopgul.javamasterclass.types_and_variables;
 
 import java.math.BigDecimal;
 import java.math.MathContext;
