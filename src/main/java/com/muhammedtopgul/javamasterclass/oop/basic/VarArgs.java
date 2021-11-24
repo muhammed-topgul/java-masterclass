@@ -1,4 +1,4 @@
-package com.muhammedtopgul.javamasterclass.oop;
+package com.muhammedtopgul.javamasterclass.oop.basic;
 
 /**
  * @author muhammed-topgul created at 07/11/2021 20:43

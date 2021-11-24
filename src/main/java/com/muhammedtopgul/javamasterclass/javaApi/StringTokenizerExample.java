@@ -1,4 +1,4 @@
-package com.muhammedtopgul.javamasterclass.java_api;
+package com.muhammedtopgul.javamasterclass.javaApi;
 
 import java.util.StringTokenizer;
 

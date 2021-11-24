@@ -1,4 +1,4 @@
-package com.muhammedtopgul.javamasterclass.oop.constructors;
+package com.muhammedtopgul.javamasterclass.oop.basic.constructors;
 
 /**
  * @author muhammed-topgul created at 18/11/2021 09:49

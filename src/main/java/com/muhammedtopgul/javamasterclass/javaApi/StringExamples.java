@@ -1,4 +1,4 @@
-package com.muhammedtopgul.javamasterclass.java_api;
+package com.muhammedtopgul.javamasterclass.javaApi;
 
 /**
  * @author muhammed-topgul created at 21/11/2021 20:02

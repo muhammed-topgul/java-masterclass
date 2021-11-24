@@ -1,4 +1,4 @@
-package com.muhammedtopgul.javamasterclass.oop;
+package com.muhammedtopgul.javamasterclass.oop.basic;
 
 import java.util.Random;
 
