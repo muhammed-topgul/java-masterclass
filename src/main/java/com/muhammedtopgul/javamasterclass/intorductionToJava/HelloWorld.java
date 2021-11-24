@@ -1,4 +1,4 @@
-package com.muhammedtopgul.javamasterclass.intorduction_to_java;
+package com.muhammedtopgul.javamasterclass.intorductionToJava;
 
 /**
  * @author muhammed-topgul created at 19/10/2021 22:59

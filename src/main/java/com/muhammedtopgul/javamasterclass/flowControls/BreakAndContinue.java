@@ -1,4 +1,4 @@
-package com.muhammedtopgul.javamasterclass.flow_controls;
+package com.muhammedtopgul.javamasterclass.flowControls;
 
 /**
  * @author muhammed-topgul created at 01/11/2021 22:09
