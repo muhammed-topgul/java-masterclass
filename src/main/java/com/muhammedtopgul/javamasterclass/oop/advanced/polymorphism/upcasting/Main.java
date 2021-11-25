@@ -35,6 +35,11 @@ public class Main {
         payrollOffice.paySalary(employee3);
         payrollOffice.paySalary(manager);
         payrollOffice.paySalary(manager1);
+
+        // HR
+        HumanResources humanResources = new HumanResources();
+        Employee employeeFromHR = humanResources.getAnEmployee();
+        employeeFromHR.work();
     }
 
     private static class PayrollOffice {
@@ -47,7 +52,7 @@ public class Main {
                 System.out.println("Paying for a director...");
             } else if (employee instanceof Manager) {
                 System.out.println("Paying for a manager...");
-            } else if (employee instanceof Employee) {
+            } else {
                 System.out.println("Paying for an employee...");
             }
             double salary = employee.calculateSalary();

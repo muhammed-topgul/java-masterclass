@@ -6,8 +6,17 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.upcasting;
 
 public class Director extends Manager {
 
+    private final double directorBonusRate = 1.2;
+
+    public Director() {
+    }
+
     public Director(int no, String name, int year, String department, String departmentManagement) {
         super(no, name, year, department, departmentManagement);
+    }
+
+    public void makeAStrategicPlan() {
+        System.out.println("Director making a strategic plan...");
     }
 
     @Override
@@ -22,7 +31,7 @@ public class Director extends Manager {
 
     @Override
     public double calculateSalary() {
-        return super.calculateSalary() * 1.2;
+        return super.calculateSalary() * directorBonusRate;
     }
 
     @Override

@@ -10,6 +10,9 @@ public class Manager extends Employee {
 
     private String departmentManagement;
 
+    public Manager() {
+    }
+
     public Manager(int no, String name, int year, String department, String departmentManagement) {
         super(no, name, year, department);
         this.departmentManagement = departmentManagement;

@@ -13,6 +13,9 @@ public class Employee {
     private int year;
     private String department;
 
+    public Employee() {
+    }
+
     public Employee(int no, String name, int year, String department) {
         this.no = no;
         this.name = name;
