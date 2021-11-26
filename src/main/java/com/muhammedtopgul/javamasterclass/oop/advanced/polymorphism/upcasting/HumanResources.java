@@ -8,13 +8,8 @@ import java.rmi.NoSuchObjectException;
 
 public class HumanResources {
 
-    public static void main(String[] args) {
-        int i = (int) (Math.random() * 3) + 1;
-        System.out.println(i);
-    }
-
     public Employee getAnEmployee() {
-        Employee employee = null;
+        Employee employee;
         int i = (int) (Math.random() * 3) + 1;
 
         if (i == 1) {

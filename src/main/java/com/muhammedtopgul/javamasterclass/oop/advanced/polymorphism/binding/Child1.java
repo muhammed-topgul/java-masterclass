@@ -6,8 +6,8 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.binding;
 
 public class Child1 extends Parent {
 
-    public static int a = 5;
-    public int b = 2;
+    public static int a = 10;
+    public int b = 20;
 
     public void publicMethod() {
         System.out.println("publicMethod in Child1.class");

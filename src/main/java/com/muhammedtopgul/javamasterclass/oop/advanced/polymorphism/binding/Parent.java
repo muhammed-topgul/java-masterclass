@@ -6,7 +6,7 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.binding;
 
 public class Parent {
 
-    public static int a = 5;
+    public static int a = 1;
     public int b = 2;
 
     public void publicMethod() {
