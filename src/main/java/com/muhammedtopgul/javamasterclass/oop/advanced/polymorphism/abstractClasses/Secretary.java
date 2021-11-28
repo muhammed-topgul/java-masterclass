@@ -24,4 +24,9 @@ public class Secretary extends Employee {
         System.out.println("Secretary is working!");
         serve();
     }
+
+    @Override
+    public void speakConcrete() {
+        System.out.println("Secretary is speaking...");
+    }
 }

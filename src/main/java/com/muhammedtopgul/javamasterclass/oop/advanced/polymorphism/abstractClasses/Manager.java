@@ -46,6 +46,11 @@ public class Manager extends Employee {
     }
 
     @Override
+    public void speakConcrete() {
+        System.out.println("Manager is speaking...");
+    }
+
+    @Override
     public String toString() {
         return "Manager [departmentManaged=" + departmentManaged + ", no=" + no + ", name=" + name + ", year=" + year
                 + ", department=" + department + "]";

@@ -41,6 +41,16 @@ public class Director extends Manager {
     }
 
     @Override
+    public void speakConcrete() {
+        System.out.println("Director is speaking...");
+    }
+
+    @Override
+    public void speakAbstract() {
+        System.out.println("Director speaking abstract...");
+    }
+
+    @Override
     public String toString() {
         return "Director [bonus=" + DIRECTOR_BONUS_RATE + ", departmentManaged=" + departmentManaged + ", no=" + no + ", name="
                 + name + ", year=" + year + ", department=" + department + "]";

@@ -4,7 +4,7 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.abstractCla
  * @author muhammed-topgul created at 28/11/2021 13:58
  */
 
-public abstract class Employee {
+public abstract class Employee extends Person {
 
     public static final int BASE_SALARY = 2000;
 
@@ -38,6 +38,11 @@ public abstract class Employee {
         System.out.println("Name:" + name);
         System.out.println("Year: " + year);
         System.out.println("Department: " + department);
+    }
+
+    @Override
+    public void speakAbstract() {
+        System.out.println("Employee is speaking...");
     }
 
     //

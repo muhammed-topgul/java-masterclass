@@ -24,4 +24,9 @@ public class Engineer extends Employee {
     public void assignTask(String task) {
         System.out.println("Engineer " + name + " works on the task: " + task);
     }
+
+    @Override
+    public void speakConcrete() {
+        System.out.println("Engineer is speaking...");
+    }
 }
