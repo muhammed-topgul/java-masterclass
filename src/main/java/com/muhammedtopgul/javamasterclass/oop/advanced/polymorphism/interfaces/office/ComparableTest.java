@@ -1,4 +1,4 @@
-package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces;
+package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.office;
 
 import java.util.Arrays;
 

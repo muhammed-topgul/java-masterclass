@@ -1,4 +1,4 @@
-package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces;
+package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.office;
 
 /**
  * @author muhammed-topgul created at 29/11/2021 10:24
