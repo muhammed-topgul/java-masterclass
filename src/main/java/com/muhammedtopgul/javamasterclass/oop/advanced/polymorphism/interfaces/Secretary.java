@@ -11,8 +11,13 @@ public class Secretary extends Employee {
     public Secretary() {
     }
 
+    public Secretary(int no, String name, int year, String department) {
+        super(no, name, year, department);
+    }
+
     public Secretary(int no, String name, int year, String department, Manager managerServed) {
         super(no, name, year, department);
+        this.managerServed = managerServed;
     }
 
     public void serve() {

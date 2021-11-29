@@ -44,10 +44,4 @@ public class Manager extends Employee {
         super.printInfo();
         System.out.println("Managing Department: " + departmentManaged);
     }
-
-    @Override
-    public String toString() {
-        return "Manager [departmentManaged=" + departmentManaged + ", no=" + no + ", name=" + name + ", year=" + year
-                + ", department=" + department + "]";
-    }
 }

@@ -4,12 +4,10 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces;
  * @author muhammed-topgul created at 28/11/2021 18:04
  */
 
-public class Employee implements Worker {
+public class Employee extends Person {
 
     public static final int BASE_SALARY = 2000;
 
-    protected int no;
-    protected String name;
     protected int year;
     protected String department;
 
