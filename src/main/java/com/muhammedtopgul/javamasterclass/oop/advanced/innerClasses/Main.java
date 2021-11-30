@@ -43,7 +43,7 @@ public class Main {
 
     public void localClassTest() {
         OuterClass outerClass = new OuterClass("A", "B", "C");
-        outerClass.localClass();
+        outerClass.localClass("Muhammed");
     }
 
     public void staticLocalClassTest() {

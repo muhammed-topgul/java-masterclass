@@ -48,9 +48,11 @@ public class OuterClass {
         }
     }
 
-    public void localClass() {
+    public void localClass(String name) {
+        // name = "Java"; will not compile
         class LocalClass {
             public void doInLocalClass() {
+                System.out.println("Name: " + name);
                 System.out.println("In Local Class --> oPublic: " + oPublic + " --> oPrivate: " + oPrivate + " --> oStatic: " + oStatic);
             }
         }
