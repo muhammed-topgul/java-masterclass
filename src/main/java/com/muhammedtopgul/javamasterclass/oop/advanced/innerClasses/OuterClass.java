@@ -98,6 +98,18 @@ public class OuterClass {
         return new NestedClass(nPrivate, nPublic);
     }
 
+    public static void createInStaticMethod() {
+        OuterClass outerClass = new OuterClass("A", "B", "C");
+        System.out.println(outerClass);
+
+        // InnerClass innerClass = new InnerClass("D", "E"); will not compile
+        InnerClass innerClass = outerClass.new InnerClass("D", "E");
+        System.out.println(innerClass);
+
+        NestedClass nestedClass = new NestedClass("F", "G");
+        System.out.println(nestedClass);
+    }
+
     @Override
     public String toString() {
         return "OuterClass{" +

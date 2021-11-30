@@ -13,7 +13,8 @@ public class Main {
         // main.createFromTopClass();
         // main.localClassTest();
         // main.staticLocalClassTest();
-        main.anonymousInnerClassTest();
+        // main.anonymousInnerClassTest();
+        main.createInStaticMethodTest();
     }
 
     public void createWithTopClass() {
@@ -52,5 +53,9 @@ public class Main {
     public void anonymousInnerClassTest() {
         OuterClass outerClass = new OuterClass("A", "B", "C");
         outerClass.anonymousInnerClass();
+    }
+
+    public void createInStaticMethodTest() {
+        OuterClass.createInStaticMethod();
     }
 }
