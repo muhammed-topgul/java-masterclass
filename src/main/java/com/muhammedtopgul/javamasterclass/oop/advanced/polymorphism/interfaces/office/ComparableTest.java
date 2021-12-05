@@ -3,7 +3,8 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.
 import java.util.Arrays;
 
 /**
- * @author muhammed-topgul created at 29/11/2021 10:29
+ * @author muhammed-topgul 
+ * @created at 29.11.2021 10:29
  */
 
 public class ComparableTest {

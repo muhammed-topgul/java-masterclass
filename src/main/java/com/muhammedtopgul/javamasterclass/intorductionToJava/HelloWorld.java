@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.intorductionToJava;
 
 /**
- * @author muhammed-topgul created at 19/10/2021 22:59
+ * @author muhammed-topgul 
+ * @created at 19.10.2021 22:59
  *
  * <h3>Compile and Run Java Code in CLI</h3>
  * <b>

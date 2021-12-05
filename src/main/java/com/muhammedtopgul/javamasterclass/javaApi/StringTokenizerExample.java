@@ -3,7 +3,8 @@ package com.muhammedtopgul.javamasterclass.javaApi;
 import java.util.StringTokenizer;
 
 /**
- * @author muhammed-topgul created at 21/11/2021 19:40
+ * @author muhammed-topgul 
+ * @created at 21.11.2021 19:40
  */
 
 public class StringTokenizerExample {

@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.exceptions;
 
 /**
- * @author muhammed-topgul created at 01/12/2021 16:33
+ * @author muhammed-topgul
+ * @created at 01.12.2021 16:33
  */
 
 public class CustomStackTrace {

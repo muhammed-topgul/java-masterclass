@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.office;
 
 /**
- * @author muhammed-topgul created at 28/11/2021 18:06
+ * @author muhammed-topgul
+ * @created at 28.11.2021 18:06
  */
 
 public class Engineer extends Employee {

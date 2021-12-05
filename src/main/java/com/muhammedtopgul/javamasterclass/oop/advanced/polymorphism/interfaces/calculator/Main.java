@@ -5,7 +5,8 @@ import com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.c
 import java.util.Scanner;
 
 /**
- * @author muhammed-topgul created at 29/11/2021 11:14
+ * @author muhammed-topgul 
+ * @created at 29.11.2021 11:14
  */
 
 public class Main {

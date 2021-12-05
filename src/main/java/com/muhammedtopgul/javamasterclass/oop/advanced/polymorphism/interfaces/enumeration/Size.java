@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.enumeration;
 
 /**
- * @author muhammed-topgul created at 29/11/2021 17:14
+ * @author muhammed-topgul 
+ * @created at 29.11.2021 17:14
  */
 
 public enum Size implements AnInterface {

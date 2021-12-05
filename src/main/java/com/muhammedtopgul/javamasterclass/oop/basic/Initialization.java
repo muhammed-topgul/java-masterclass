@@ -3,7 +3,8 @@ package com.muhammedtopgul.javamasterclass.oop.basic;
 import java.util.Random;
 
 /**
- * @author muhammed-topgul created at 08/11/2021 23:02
+ * @author muhammed-topgul
+ * @created at 08.11.2021 23:02
  */
 
 public class Initialization {

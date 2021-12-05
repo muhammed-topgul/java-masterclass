@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.downcasting;
 
 /**
- * @author muhammed-topgul created at 24/11/2021 11:24
+ * @author muhammed-topgul 
+ * @created at 24.11.2021 11:24
  */
 
 public class Employee {

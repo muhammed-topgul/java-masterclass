@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.basic;
 
 /**
- * @author muhammed-topgul created at 08/11/2021 21:18
+ * @author muhammed-topgul 
+ * @created at 08.11.2021 21:18
  */
 
 public class Static {

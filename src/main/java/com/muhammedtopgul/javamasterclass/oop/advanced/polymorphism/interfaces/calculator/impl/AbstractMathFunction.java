@@ -3,7 +3,8 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.
 import com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.calculator.service.MathFunction;
 
 /**
- * @author muhammed-topgul created at 29/11/2021 16:17
+ * @author muhammed-topgul
+ * @created at 29.11.2021 16:17
  */
 
 public abstract class AbstractMathFunction implements MathFunction {

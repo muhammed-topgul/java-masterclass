@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.abstractClasses;
 
 /**
- * @author muhammed-topgul created at 28/11/2021 14:11
+ * @author muhammed-topgul 
+ * @created at 28.11.2021 14:11
  */
 
 public class Manager extends Employee {

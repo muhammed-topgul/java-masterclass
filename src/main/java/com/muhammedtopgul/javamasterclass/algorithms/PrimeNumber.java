@@ -3,7 +3,8 @@ package com.muhammedtopgul.javamasterclass.algorithms;
 import java.util.Scanner;
 
 /**
- * @author muhammed-topgul created at 02/11/2021 22:35
+ * @author muhammed-topgul 
+ * @created at 02.11.2021 22:35
  */
 
 public class PrimeNumber {

@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.downcasting;
 
 /**
- * @author muhammed-topgul created at 26/11/2021 09:43
+ * @author muhammed-topgul 
+ * @created at 26.11.2021 09:43
  */
 
 public class Main {

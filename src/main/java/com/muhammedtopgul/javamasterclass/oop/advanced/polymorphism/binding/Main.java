@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.binding;
 
 /**
- * @author muhammed-topgul created at 25/11/2021 16:53
+ * @author muhammed-topgul 
+ * @created at 25.11.2021 16:53
  *
  * <p>
  * private, static and final methods cannot be overrided.

@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.Date;
 
 /**
- * @author muhammed-topgul created at 27/10/2021 20:56
+ * @author muhammed-topgul 
+ * @created at 27.10.2021 20:56
  * 'var' is a reserved word, not a keyword
  * 'var' used only local variables
  * class name or interface name cannot be 'var' after Java 10

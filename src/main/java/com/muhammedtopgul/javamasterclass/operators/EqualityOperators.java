@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.operators;
 
 /**
- * @author muhammed-topgul created at 31/10/2021 18:59
+ * @author muhammed-topgul 
+ * @created at 31.10.2021 18:59
  */
 
 public class EqualityOperators {

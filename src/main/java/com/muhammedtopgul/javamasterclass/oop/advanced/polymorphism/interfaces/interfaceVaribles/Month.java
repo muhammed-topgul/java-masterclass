@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.interfaceVaribles;
 
 /**
- * @author muhammed-topgul created at 29/11/2021 16:59
+ * @author muhammed-topgul 
+ * @created at 29.11.2021 16:59
  * <p>
  * Note: All Variables on the Interface are 'public static final' on default
  */

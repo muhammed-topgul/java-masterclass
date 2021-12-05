@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.upcasting;
 
 /**
- * @author muhammed-topgul created at 24/11/2021 11:28
+ * @author muhammed-topgul 
+ * @created at 24.11.2021 11:28
  */
 
 public class Manager extends Employee {

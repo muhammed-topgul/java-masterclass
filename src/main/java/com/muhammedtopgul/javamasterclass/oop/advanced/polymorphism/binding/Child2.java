@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.binding;
 
 /**
- * @author muhammed-topgul created at 25/11/2021 14:39
+ * @author muhammed-topgul
+ * @created at 25.11.2021 14:39
  */
 
 public class Child2 extends Parent {

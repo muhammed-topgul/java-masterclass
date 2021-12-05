@@ -4,7 +4,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * @author muhammed-topgul created at 06/11/2021 21:11
+ * @author muhammed-topgul 
+ * @created at 06.11.2021 21:11
  * https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
  */
 

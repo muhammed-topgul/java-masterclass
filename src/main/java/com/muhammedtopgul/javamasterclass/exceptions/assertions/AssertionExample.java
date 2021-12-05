@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.exceptions.assertions;
 
 /**
- * @author muhammed-topgul created at 05/12/2021 21:41
+ * @author muhammed-topgul
+ * @created at 05.12.2021 21:41
  */
 
 public class AssertionExample {

@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.chaining;
 
 /**
- * @author muhammed-topgul created at 28/11/2021 17:17
+ * @author muhammed-topgul 
+ * @created at 28.11.2021 17:17
  */
 
 public class ClassB extends AbstractB {

@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.exceptions;
 
 /**
- * @author muhammed-topgul created at 02/12/2021 17:17
+ * @author muhammed-topgul 
+ * @created at 02.12.2021 17:17
  */
 
 public class ManipulateVariable {

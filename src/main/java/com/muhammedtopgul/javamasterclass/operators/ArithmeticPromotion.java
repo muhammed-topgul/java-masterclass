@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.operators;
 
 /**
- * @author muhammed-topgul created at 31/10/2021 18:10
+ * @author muhammed-topgul 
+ * @created at 31.10.2021 18:10
  * The result of arithmatic operations in Java returns int at minimum
  * if you add two bytes the result is int not byte (byte _byte1 = 8, _byte2 = 5; _byte1 = _byte1 + _byte2; // cast error)
  */

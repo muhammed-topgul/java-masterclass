@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.upcasting;
 
 /**
- * @author muhammed-topgul created at 25/11/2021 10:08
+ * @author muhammed-topgul 
+ * @created at 25.11.2021 10:08
  */
 
 public class HumanResources {

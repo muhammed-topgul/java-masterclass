@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.basic.constructors;
 
 /**
- * @author muhammed-topgul created at 18/11/2021 09:49
+ * @author muhammed-topgul
+ * @created at 18.11.2021 09:49
  */
 
 public class Main {

@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.exceptions;
 
 /**
- * @author muhammed-topgul created at 01/12/2021 17:13
+ * @author muhammed-topgul 
+ * @created at 01.12.2021 17:13
  */
 
 public class ThrowError {

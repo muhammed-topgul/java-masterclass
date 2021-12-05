@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.binding;
 
 /**
- * @author muhammed-topgul created at 25/11/2021 14:35
+ * @author muhammed-topgul 
+ * @created at 25.11.2021 14:35
  */
 
 public class Parent {

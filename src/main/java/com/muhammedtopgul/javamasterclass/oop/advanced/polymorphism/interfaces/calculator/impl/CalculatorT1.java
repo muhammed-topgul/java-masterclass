@@ -4,7 +4,8 @@ import com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.c
 import com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.calculator.service.MathFunction;
 
 /**
- * @author muhammed-topgul created at 29/11/2021 11:12
+ * @author muhammed-topgul 
+ * @created at 29.11.2021 11:12
  */
 
 public class CalculatorT1 implements Calculator {

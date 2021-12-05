@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.arrays;
 
 /**
- * @author muhammed-topgul created at 04/11/2021 17:02
+ * @author muhammed-topgul 
+ * @created at 04.11.2021 17:02
  */
 
 public class MultiDimensionalArrays {

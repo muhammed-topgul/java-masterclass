@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.office;
 
 /**
- * @author muhammed-topgul created at 29/11/2021 10:24
+ * @author muhammed-topgul
+ * @created at 29.11.2021 10:24
  */
 
 public abstract class Person implements Worker, Comparable<Person> {

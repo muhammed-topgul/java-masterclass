@@ -1,7 +1,8 @@
 package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.abstractClasses;
 
 /**
- * @author muhammed-topgul created at 28/11/2021 14:14
+ * @author muhammed-topgul 
+ * @created at 28.11.2021 14:14
  */
 
 public class Director extends Manager {
