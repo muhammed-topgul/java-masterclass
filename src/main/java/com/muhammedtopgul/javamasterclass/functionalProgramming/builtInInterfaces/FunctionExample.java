@@ -10,13 +10,9 @@ import java.util.function.Predicate;
  * @created at 09.12.2021 22:13
  */
 
-public class Main {
+public class FunctionExample {
 
     public static void main(String[] args) {
-        functionExample();
-    }
-
-    public static void functionExample() {
         Function<Integer, String> converter = (number) -> Integer.toString(number);
         System.out.println(converter.apply(1726).length());
 
