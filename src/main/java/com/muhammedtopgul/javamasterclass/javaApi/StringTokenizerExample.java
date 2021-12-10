@@ -4,7 +4,7 @@ import java.util.StringTokenizer;
 
 /**
  * @author muhammed-topgul 
- * @created at 21.11.2021 19:40
+ * @since 21.11.2021 19:40
  */
 
 public class StringTokenizerExample {

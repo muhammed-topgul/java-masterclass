@@ -5,7 +5,7 @@ import java.util.function.BiPredicate;
 
 /**
  * @author muhammed-topgul
- * @created at 09.12.2021 22:43
+ * @since 09.12.2021 22:43
  */
 
 public class BiFunctionExample {

@@ -5,7 +5,7 @@ import java.util.Random;
 
 /**
  * @author muhammed-topgul
- * @created at 06.11.2021 20:05
+ * @since 06.11.2021 20:05
  */
 
 public class ArraysDemo {

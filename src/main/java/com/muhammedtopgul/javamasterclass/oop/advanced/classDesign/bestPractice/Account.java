@@ -5,7 +5,7 @@ import com.muhammedtopgul.javamasterclass.oop.advanced.classDesign.exception.Neg
 
 /**
  * @author muhammed-topgul
- * @created at 06.12.2021 10:05
+ * @since 06.12.2021 10:05
  */
 
 public class Account {

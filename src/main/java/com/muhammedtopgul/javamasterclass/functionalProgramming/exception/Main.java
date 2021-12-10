@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.functionalProgramming.exception;
 
 /**
  * @author muhammed-topgul
- * @created at 09.12.2021 21:18
+ * @since 09.12.2021 21:18
  */
 
 public class Main {

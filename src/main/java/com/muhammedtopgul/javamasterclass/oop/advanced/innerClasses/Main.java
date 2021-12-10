@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.innerClasses;
 
 /**
  * @author muhammed-topgul 
- * @created at 30.11.2021 10:19
+ * @since 30.11.2021 10:19
  */
 
 public class Main {

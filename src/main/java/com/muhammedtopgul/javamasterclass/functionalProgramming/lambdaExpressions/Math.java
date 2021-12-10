@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.functionalProgramming.lambdaExpressio
 
 /**
  * @author muhammed-topgul
- * @created at 08.12.2021 22:47
+ * @since 08.12.2021 22:47
  */
 
 @FunctionalInterface

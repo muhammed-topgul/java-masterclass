@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.
 
 /**
  * @author muhammed-topgul 
- * @created at 30.11.2021 00:40
+ * @since 30.11.2021 00:40
  */
 
 public interface Artist {

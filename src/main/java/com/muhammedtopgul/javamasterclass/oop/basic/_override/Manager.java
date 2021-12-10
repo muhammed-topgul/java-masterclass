@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.basic._override;
 
 /**
  * @author muhammed-topgul 
- * @created at 18.11.2021 13:39
+ * @since 18.11.2021 13:39
  */
 
 public class Manager extends Employee {

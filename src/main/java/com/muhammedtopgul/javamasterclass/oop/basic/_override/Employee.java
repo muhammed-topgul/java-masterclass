@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.basic._override;
 
 /**
  * @author muhammed-topgul 
- * @created at 18.11.2021 13:38
+ * @since 18.11.2021 13:38
  */
 
 public class Employee {

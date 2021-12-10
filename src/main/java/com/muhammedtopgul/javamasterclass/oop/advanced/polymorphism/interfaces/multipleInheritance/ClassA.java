@@ -4,7 +4,7 @@ import java.io.ObjectStreamConstants;
 
 /**
  * @author muhammed-topgul 
- * @created at 29.11.2021 16:41
+ * @since 29.11.2021 16:41
  */
 
 public class ClassA implements InterfaceA, InterfaceB, ObjectStreamConstants {

@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.
 
 /**
  * @author muhammed-topgul 
- * @created at 28.11.2021 18:10
+ * @since 28.11.2021 18:10
  */
 
 public class HumanResources {

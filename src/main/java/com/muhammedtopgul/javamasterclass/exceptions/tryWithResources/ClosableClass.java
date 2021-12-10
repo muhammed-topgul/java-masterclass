@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.exceptions.tryWithResources;
 
 /**
  * @author muhammed-topgul 
- * @created at 02.12.2021 17:15
+ * @since 02.12.2021 17:15
  */
 
 public class ClosableClass implements AutoCloseable {

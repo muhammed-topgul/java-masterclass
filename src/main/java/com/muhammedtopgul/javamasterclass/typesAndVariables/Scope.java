@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.typesAndVariables;
 
 /**
  * @author muhammed-topgul 
- * @created at 27.10.2021 21:22
+ * @since 27.10.2021 21:22
  * we can define Local Varable name as same as Instance Variable name in Java
  * if the defined variable call in method, then Java call the 'Local Variable'. This is Shadowing
  */

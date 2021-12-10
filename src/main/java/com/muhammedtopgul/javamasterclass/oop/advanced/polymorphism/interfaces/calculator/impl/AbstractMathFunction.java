@@ -4,7 +4,7 @@ import com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.c
 
 /**
  * @author muhammed-topgul
- * @created at 29.11.2021 16:17
+ * @since 29.11.2021 16:17
  */
 
 public abstract class AbstractMathFunction implements MathFunction {

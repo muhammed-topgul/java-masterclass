@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.
 
 /**
  * @author muhammed-topgul 
- * @created at 29.11.2021 11:06
+ * @since 29.11.2021 11:06
  */
 
 public class LogFunction extends AbstractMathFunction {

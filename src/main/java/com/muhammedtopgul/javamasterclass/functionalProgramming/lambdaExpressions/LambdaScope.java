@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.functionalProgramming.lambdaExpressio
 
 /**
  * @author muhammed-topgul
- * @created at 09.12.2021 20:39
+ * @since 09.12.2021 20:39
  */
 
 public class LambdaScope {

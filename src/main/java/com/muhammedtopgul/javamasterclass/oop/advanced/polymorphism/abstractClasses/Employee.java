@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.abstractCla
 
 /**
  * @author muhammed-topgul 
- * @created at 28.11.2021 13:58
+ * @since 28.11.2021 13:58
  */
 
 public abstract class Employee extends Person {

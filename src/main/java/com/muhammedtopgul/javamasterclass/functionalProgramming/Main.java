@@ -5,7 +5,7 @@ import java.util.stream.IntStream;
 
 /**
  * @author muhammed-topgul
- * @created at 07.12.2021 09:47
+ * @since 07.12.2021 09:47
  */
 
 public class Main {

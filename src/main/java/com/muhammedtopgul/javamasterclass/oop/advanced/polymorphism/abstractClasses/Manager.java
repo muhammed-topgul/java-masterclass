@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.abstractCla
 
 /**
  * @author muhammed-topgul 
- * @created at 28.11.2021 14:11
+ * @since 28.11.2021 14:11
  */
 
 public class Manager extends Employee {

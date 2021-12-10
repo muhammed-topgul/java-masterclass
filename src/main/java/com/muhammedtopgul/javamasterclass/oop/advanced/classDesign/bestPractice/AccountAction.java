@@ -4,7 +4,7 @@ import com.muhammedtopgul.javamasterclass.oop.advanced.classDesign.exception.Ins
 
 /**
  * @author muhammed-topgul
- * @created at 06.12.2021 10:06
+ * @since 06.12.2021 10:06
  */
 
 public interface AccountAction {

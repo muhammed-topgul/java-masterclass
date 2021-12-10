@@ -7,7 +7,7 @@ import java.util.logging.Logger;
 
 /**
  * @author muhammed-topgul
- * @created at 06.12.2021 09:52
+ * @since 06.12.2021 09:52
  */
 
 public class Account {

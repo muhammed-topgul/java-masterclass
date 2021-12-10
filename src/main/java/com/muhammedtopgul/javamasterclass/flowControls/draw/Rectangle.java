@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.flowControls.draw;
 
 /**
  * @author muhammed-topgul 
- * @created at 31.10.2021 23:00
+ * @since 31.10.2021 23:00
  */
 
 public class Rectangle {

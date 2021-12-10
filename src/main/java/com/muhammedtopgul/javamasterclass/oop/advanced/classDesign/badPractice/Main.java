@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.classDesign.badPractice;
 
 /**
  * @author muhammed-topgul
- * @created at 06.12.2021 10:21
+ * @since 06.12.2021 10:21
  */
 
 public class Main {

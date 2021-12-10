@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.interfaces.
 
 /**
  * @author muhammed-topgul 
- * @created at 30.11.2021 09:36
+ * @since 30.11.2021 09:36
  */
 
 public interface SubPrintable extends Printable {

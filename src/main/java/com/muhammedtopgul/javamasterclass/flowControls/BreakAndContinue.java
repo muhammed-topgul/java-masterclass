@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.flowControls;
 
 /**
  * @author muhammed-topgul 
- * @created at 01.11.2021 22:09
+ * @since 01.11.2021 22:09
  */
 
 public class BreakAndContinue {

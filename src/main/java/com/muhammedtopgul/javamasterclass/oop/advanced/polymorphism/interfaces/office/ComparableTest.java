@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * @author muhammed-topgul 
- * @created at 29.11.2021 10:29
+ * @since 29.11.2021 10:29
  */
 
 public class ComparableTest {

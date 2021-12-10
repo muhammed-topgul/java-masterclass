@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.operators;
 
 /**
  * @author muhammed-topgul
- * @created at 31.10.2021 19:08
+ * @since 31.10.2021 19:08
  */
 
 public class ConditionalOperators {

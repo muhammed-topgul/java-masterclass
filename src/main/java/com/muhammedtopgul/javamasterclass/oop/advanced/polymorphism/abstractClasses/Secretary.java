@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.abstractCla
 
 /**
  * @author muhammed-topgul 
- * @created at 28.11.2021 14:18
+ * @since 28.11.2021 14:18
  */
 
 public class Secretary extends Employee {

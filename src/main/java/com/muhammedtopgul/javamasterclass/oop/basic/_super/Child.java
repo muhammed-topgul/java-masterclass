@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.basic._super;
 
 /**
  * @author muhammed-topgul 
- * @created at 18.11.2021 10:55
+ * @since 18.11.2021 10:55
  */
 
 public class Child extends Parent {

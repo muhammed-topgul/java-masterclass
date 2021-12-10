@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  * @author muhammed-topgul
- * @created at 08.12.2021 21:38
+ * @since 08.12.2021 21:38
  */
 
 public class TimerExample1 {

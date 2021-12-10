@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.typesAndVariables;
 
 /**
  * @author muhammed-topgul 
- * @created at 27.10.2021 22:23
+ * @since 27.10.2021 22:23
  */
 
 public class Final {

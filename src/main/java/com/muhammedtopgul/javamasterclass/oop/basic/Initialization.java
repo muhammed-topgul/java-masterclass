@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
  * @author muhammed-topgul
- * @created at 08.11.2021 23:02
+ * @since 08.11.2021 23:02
  */
 
 public class Initialization {

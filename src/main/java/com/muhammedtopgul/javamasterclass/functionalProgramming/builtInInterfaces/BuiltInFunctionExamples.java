@@ -5,7 +5,7 @@ import java.util.function.*;
 
 /**
  * @author muhammed-topgul
- * @created at 09.12.2021 22:55
+ * @since 09.12.2021 22:55
  */
 
 public class BuiltInFunctionExamples {

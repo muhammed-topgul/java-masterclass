@@ -7,7 +7,7 @@ import java.util.function.Predicate;
 
 /**
  * @author muhammed-topgul
- * @created at 09.12.2021 22:13
+ * @since 09.12.2021 22:13
  */
 
 public class FunctionExample {

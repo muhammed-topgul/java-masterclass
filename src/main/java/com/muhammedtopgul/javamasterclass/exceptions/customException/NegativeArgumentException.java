@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.exceptions.customException;
 
 /**
  * @author muhammed-topgul 
- * @created at 05.12.2021 20:24
+ * @since 05.12.2021 20:24
  */
 
 public class NegativeArgumentException extends Exception {

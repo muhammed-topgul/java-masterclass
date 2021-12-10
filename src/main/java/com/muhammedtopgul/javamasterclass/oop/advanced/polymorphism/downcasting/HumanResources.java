@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.advanced.polymorphism.downcasting
 
 /**
  * @author muhammed-topgul 
- * @created at 25.11.2021 10:08
+ * @since 25.11.2021 10:08
  */
 
 public class HumanResources {

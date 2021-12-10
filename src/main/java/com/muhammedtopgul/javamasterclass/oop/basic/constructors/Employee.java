@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.basic.constructors;
 
 /**
  * @author muhammed-topgul 
- * @created at 18.11.2021 09:24
+ * @since 18.11.2021 09:24
  */
 
 public class Employee {

@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.basic.constructors;
 
 /**
  * @author muhammed-topgul 
- * @created at 18.11.2021 09:25
+ * @since 18.11.2021 09:25
  */
 
 public class Worker extends Employee {

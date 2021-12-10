@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.arrays;
 
 /**
  * @author muhammed-topgul 
- * @created at 06.11.2021 20:58
+ * @since 06.11.2021 20:58
  */
 
 public class PassParameterToMainMethod {

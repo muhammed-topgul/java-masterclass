@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.oop.basic._super;
 
 /**
  * @author muhammed-topgul 
- * @created at 18.11.2021 10:53
+ * @since 18.11.2021 10:53
  */
 
 public class Parent {

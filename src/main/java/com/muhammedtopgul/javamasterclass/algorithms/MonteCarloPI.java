@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @author muhammed-topgul 
- * @created at 01.11.2021 23:03
+ * @since 01.11.2021 23:03
  */
 
 public class MonteCarloPI {

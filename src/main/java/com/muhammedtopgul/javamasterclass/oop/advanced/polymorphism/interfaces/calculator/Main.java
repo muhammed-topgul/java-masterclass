@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  * @author muhammed-topgul 
- * @created at 29.11.2021 11:14
+ * @since 29.11.2021 11:14
  */
 
 public class Main {

@@ -2,7 +2,7 @@ package com.muhammedtopgul.javamasterclass.arrays;
 
 /**
  * @author muhammed-topgul 
- * @created at 02.11.2021 23:16
+ * @since 02.11.2021 23:16
  */
 
 public class Main {
