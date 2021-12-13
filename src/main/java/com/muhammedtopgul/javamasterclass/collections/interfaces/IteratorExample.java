@@ -1,4 +1,4 @@
-package com.muhammedtopgul.javamasterclass.collections.iterator;
+package com.muhammedtopgul.javamasterclass.collections.interfaces;
 
 import com.muhammedtopgul.javamasterclass.collections.util.CollectionUtil;
 
