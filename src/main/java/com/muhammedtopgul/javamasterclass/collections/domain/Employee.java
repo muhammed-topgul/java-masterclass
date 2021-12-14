@@ -77,9 +77,8 @@ public class Employee extends Person implements Worker, Comparable {
             return false;
         Employee other = (Employee) obj;
         System.out.println("equals() on Employee with no: " + this + " other Employee with no: " + obj);
-        if (no != other.no)
-            return false;
-        return true;
+
+        return no == other.no;
     }
 
 //    @Override
