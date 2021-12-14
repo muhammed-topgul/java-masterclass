@@ -82,22 +82,22 @@ public class Employee extends Person implements Worker, Comparable {
         return true;
     }
 
-    @Override
-    public int compareTo(Object o) {
-        Employee other = (Employee) o;
-        int result = 0;
-        if (no == other.no)
-            result = 0;
-        else if (no < other.no)
-            result = -1;
-        else
-            result = 1;
-        return result;
-    }
+//    @Override
+//    public int compareTo(Object o) {
+//        Employee other = (Employee) o;
+//        int result = 0;
+//        if (no == other.no)
+//            result = 0;
+//        else if (no < other.no)
+//            result = -1;
+//        else
+//            result = 1;
+//        return result;
+//    }
 
-//	@Override
-//	public int compareTo(Object o) {
-//		Employee other = (Employee) o;
-//		return lastName.compareTo(other.lastName);
-//	}
+	@Override
+	public int compareTo(Object o) {
+		Employee other = (Employee) o;
+		return lastName.compareTo(other.lastName);
+	}
 }

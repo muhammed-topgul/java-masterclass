@@ -9,7 +9,6 @@ import java.util.*;
  * @created at 13.12.2021 23:16
  */
 
-
 public class CollectionUtil {
     private static Set<String> set;
 
